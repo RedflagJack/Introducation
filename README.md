@@ -3,7 +3,7 @@
      <div>
         <span>
              <img src="https://github.com/CyC2018/Markdown-Resume/raw/master/assets/envelope-solid.svg" width="18px">
-             lwmao@tju.edu.cn
+             lwmao#tju.edu.cn
          </span> 
          ·
          <span>
